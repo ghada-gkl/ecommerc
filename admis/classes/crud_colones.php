@@ -1,0 +1,4 @@
+<?
+class CRUD_PRODUIT{
+    
+}
